@@ -33,20 +33,20 @@ export const PROJECTS = [
     name: "JOBIFY",
     description: "Job Application Platform (MERN)",
     image: projects1,
-    link: "https://https://jobify-liart-two.vercel.app",
+    link: "https://jobify-liart-two.vercel.app",
   },
   {
     name: "Gmail Clone",
     description: "Gmail clone using react and styled-component",
     image: projects2,
-    link: "https://github.com/your-github/nutritrack",
+    link: "https://gmail-clone-react-five.vercel.app",
   },
   {
     name: "Thrift Book",
     description:
       "An MERN Stack Ebook Marketplace for buying and selling books with paystack integration.",
     image: projects3,
-    link: "https://github.com/your-github/hairrevive",
+    link: "https://thrift-book-client.vercel.app",
   },
   {
     name: "DevDeck",

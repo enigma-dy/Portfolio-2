@@ -23,7 +23,7 @@ export const LINKS = [
 export const HERO_CONTENT = {
   greeting: "Hey there! 🖐️",
   introduction:
-    "I’m Gbenga Root, a creative MERN Stack, crafting immersive and intuitive web experiences.",
+    "I’m Olwagbenga Adedire, a creative MERN Stack, crafting immersive and intuitive web experiences.",
   description:
     "I’m currently helping businesses bring their visions to life through interactive digital solutions.",
 };

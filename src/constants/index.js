@@ -53,7 +53,7 @@ export const PROJECTS = [
     description:
       "Beat market place for music producer to track coding activity With RBAC, using React,Styled component,Express,MongoDB,Nodejs",
     image: projects4,
-    link: "https://github.com/enigma-dy/music-marketplace",
+    link: "https://music-marketplace.vercel.app",
   },
   {
     name: "Jobibify Web API",

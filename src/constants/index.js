@@ -1,9 +1,9 @@
-import projects1 from "../assets/projects1.webp";
-import projects2 from "../assets/projects2.webp";
-import projects3 from "../assets/projects3.webp";
-import projects4 from "../assets/projects4.webp";
-import projects5 from "../assets/projects5.webp";
-import projects6 from "../assets/projects6.webp";
+import projects1 from "../assets/projects1.png";
+import projects2 from "../assets/projects2.png";
+import projects3 from "../assets/projects3.png";
+import projects4 from "../assets/projects4.png";
+import projects5 from "../assets/projects5.png";
+import projects6 from "../assets/projects6.png";
 
 import person1 from "../assets/person1.webp";
 import person2 from "../assets/person2.webp";
@@ -49,20 +49,20 @@ export const PROJECTS = [
     link: "https://thrift-book-client.vercel.app",
   },
   {
-    name: "DevDeck",
+    name: "Beats Market Place ",
     description:
-      "Interactive dashboard for developers to track coding activity",
+      "Beat market place for music producer to track coding activity With RBAC, using React,Styled component,Express,MongoDB,Nodejs",
     image: projects4,
-    link: "https://github.com/your-github/devdeck",
+    link: "https://github.com/enigma-dy/music-marketplace",
   },
   {
-    name: "Jobibify Web Client",
+    name: "Jobibify Web API",
     description: "Web client for Jobibify  built using Nodejs,express, MongoDB",
     image: projects5,
-    link: "https://github.com/your-github/fitconnect",
+    link: "https://github.com/enigma-dy/jobify-web-api",
   },
   {
-    name: "ThriftBook Client",
+    name: "ThriftBook Wrb API",
     description:
       "Web client for thrift book built using Nodejs,express, MongoDB",
     image: projects6,
